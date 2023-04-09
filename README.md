@@ -4,7 +4,7 @@
 
 * Supported OS:  
 ```
-NT 5.1 SP3/SP2 - Windows XP x86
+NT 5.1 SP3/SP2 - Windows XP x86, Windows XP Starter Edition
 
 NT 5.2 SP2/SP1 - Windows XP Professional x64 Edition, Windows Server 2003 x64/x86
 ```
